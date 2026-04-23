@@ -48,6 +48,7 @@ public class Factorial {
          } catch (InputMismatchException ex) {
 			 printStream.print(error_msg);
 		 }
+
 		 return -1;
 
 		//YOUR CODE ENDS HERE
